@@ -1,0 +1,5 @@
+﻿  AssignmentTwo201.cpp
+C:\Users\NZJeu\source\repos\AssignmentTwo201\AssignmentTwo201.cpp(43,15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\NZJeu\source\repos\AssignmentTwo201\AssignmentTwo201.cpp(58,20): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\NZJeu\source\repos\AssignmentTwo201\AssignmentTwo201.cpp(142,3): warning C4551: function call missing argument list
+  AssignmentTwo201.vcxproj -> C:\Users\NZJeu\source\repos\AssignmentTwo201\Debug\AssignmentTwo201.exe
